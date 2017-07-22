@@ -22,3 +22,7 @@ p {
               url('http://portugalresident.com/sites/default/files/field/image/lisboa1g.jpg') no-repeat center center;
   background-size: cover;
 }
+
+.card {
+  margin: 1em 0;
+}
